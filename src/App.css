@@ -1,0 +1,28 @@
+.App {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  font-family: 'Playball', cursive;
+  font-family: 'Playfair Display SC', serif;
+  font-size: 22px;
+  background: url(https://png.pngtree.com/thumb_back/fw800/back_our/20190628/ourmid/pngtree-hd-cool-background-illustration-image_264321.jpg) no-repeat center center fixed; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black;
+  height: 100%; 
+
+}
+.cart{
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.541) !important;
+}
+img{
+  margin: 7px;
+  border-radius: 7%; 
+}
+p{color: rgb(20, 119, 248);}
+.list-group-item{
+  background-color: rgba(255, 255, 255, 0.651) !important ;
+}
